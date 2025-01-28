@@ -1,10 +1,17 @@
 # sprint-7
-repository of dataproject
+aplicasion para visualizar datos en forma de histograma y grafico de dispersion
 
 
 
 
 enlace app:
 https://sprint-7-m8b5.onrender.com
+streamlit/config.toml
 
+[server]
+headless = true
+port = 10000
 
+[browser]
+serverAddress = "0.0.0.0"
+serverPort = 10000
