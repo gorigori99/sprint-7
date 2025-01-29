@@ -1,5 +1,5 @@
 # sprint-7
-aplicasion para visualizar datos en forma de histograma y grafico de dispersion
+aplicasion para visualizar datos en forma de histograma y grafico de dispersion,la funcionalidad de esta permite tener una idea mas clara del comportamiento 
 
 
 
@@ -15,3 +15,4 @@ port = 10000
 [browser]
 serverAddress = "0.0.0.0"
 serverPort = 10000
+
